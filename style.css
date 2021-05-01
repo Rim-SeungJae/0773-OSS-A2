@@ -1,0 +1,23 @@
+  h1 {
+    text-align: center;
+    margin-top: 0px;
+  } 
+  
+  a {
+    color: steelblue;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+
+  .profile {
+      font-weight: bold;
+      font-style: italic;
+  }
+
+  #wrapper {
+      width: 720px;
+      margin: auto;
+      border: 2px solid black;
+  }
